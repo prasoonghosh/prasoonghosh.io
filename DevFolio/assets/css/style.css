@@ -945,9 +945,9 @@ a:hover {
 .testimonial-box .author-test {
   margin-top: 1rem;
 }
-.testimonial-box .author-test img {
-  margin: 0 auto;
-}
+/* .testimonial-box .author-test img {
+  
+} */
 .testimonial-box .author {
   color: #fff;
   text-transform: uppercase;
