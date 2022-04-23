@@ -943,15 +943,15 @@ a:hover {
   text-align: center;
 }
 .testimonial-box .author-test {
-  margin-top: 1rem;
+  margin-top: 16px;
 }
 .testimonial-box .author-test img {
   
 }
-.rounded-circle b-shadow-a{
-  width: 5px;
-  height: 5px;
-  margin: 20%;
+
+.small-img{
+  height: 150px;
+  width: 150px;
 }
 .testimonial-box .author {
   color: #fff;
