@@ -945,9 +945,13 @@ a:hover {
 .testimonial-box .author-test {
   margin-top: 1rem;
 }
-/* .testimonial-box .author-test img {
+.testimonial-box .author-test img {
   
-} */
+}
+.rounded-circle b-shadow-a{
+  width: 5px;
+  height: 5px;
+}
 .testimonial-box .author {
   color: #fff;
   text-transform: uppercase;
