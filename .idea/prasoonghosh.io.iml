@@ -5,5 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="conFusion" />
+    <orderEntry type="module" module-name="Front-end-Web-Development" />
+    <orderEntry type="module" module-name="examples" />
   </component>
 </module>

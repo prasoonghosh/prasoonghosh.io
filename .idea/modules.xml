@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Front-end-Web-Development/.idea/Front-end-Web-Development.iml" filepath="$PROJECT_DIR$/../Front-end-Web-Development/.idea/Front-end-Web-Development.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Documents/Personal/IBM Internship/Retail-sales-bot/.idea/Retail-sales-bot.iml" filepath="$PROJECT_DIR$/../../Documents/Personal/IBM Internship/Retail-sales-bot/.idea/Retail-sales-bot.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Bootstrap-conFusion/.idea/conFusion.iml" filepath="$PROJECT_DIR$/../Bootstrap-conFusion/.idea/conFusion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Coursera/HTML, CSS, JavaScript for Web Developers/fullstack-course4-master/examples/.idea/examples.iml" filepath="$PROJECT_DIR$/../../Coursera/HTML, CSS, JavaScript for Web Developers/fullstack-course4-master/examples/.idea/examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/prasoonghosh.io.iml" filepath="$PROJECT_DIR$/.idea/prasoonghosh.io.iml" />
     </modules>
   </component>
