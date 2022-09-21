@@ -1,0 +1,25 @@
+*:focus,*:active{
+    online: none !important;
+    -webkit-tap-highlight-color: transparent;
+}
+
+html, body{
+    display: grid;
+    height: 100%;
+    width: 100%;
+    font-family: linear-gradient(315, #ffffff, #d7e1ec);
+}
+
+.wrapper{
+    display: grid;
+    list-style: none;    
+}
+
+.wrapper .icon{
+    position: relative;
+    background: #ffffff;
+    border-radius: 50%;
+    padding: 15px;
+    margin: 10px;
+    
+}
